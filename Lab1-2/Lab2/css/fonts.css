@@ -1,0 +1,18 @@
+@font-face {
+    font-family: Lora;
+    font-weight: 400;
+    font-style: normal;
+    src: local("Lora"), url("../fonts/Lora-Regular.woff2") format("woff2"),
+      url("../fonts/Lora-Regular.woff") format("woff"),
+      url("../fonts/Lora-Regular.eot") format("eot");
+    font-display: swap;
+  }
+  @font-face {
+    font-family: Oxygen;
+    font-weight: 400;
+    font-style: normal;
+    src: local("Oxygen"), url("../fonts/Oxygen-Regular.woff2") format("woff2"),
+      url("../fonts/Oxygen-Regular.woff") format("woff"),
+      url("../fonts/Oxygen-Regular.eot") format("eot");
+    font-display: swap;
+  }

@@ -1,0 +1,30 @@
+@font-face {
+  font-family: Lora;
+  font-weight: 400;
+  font-style: normal;
+  src: local("Lora"), local("Lora-Regular"),
+    url("/src/styles/fonts/Lora-Regular.woff2") format("woff2"),
+    url("/src/styles/fonts/Lora-Regular.woff") format("woff"),
+    url("/src/styles/fonts/Lora-Regular.eot") format("eot");
+  font-display: fallback;
+}
+@font-face {
+  font-family: Oxygen;
+  font-weight: 400;
+  font-style: normal;
+  src: local("Oxygen"), local("Oxygen-Regular"),
+    url("/src/styles/fonts/Oxygen-Regular.woff2") format("woff2"),
+    url("/src/styles/fonts/Oxygen-Regular.woff") format("woff"),
+    url("/src/styles/fonts/Oxygen-Regular.eot") format("eot");
+  font-display: fallback;
+}
+@font-face {
+  font-family: Roboto;
+  font-weight: 400;
+  font-style: normal;
+  src: local("Roboto"), local("Roboto-Regular"),
+    url("/src/styles/fonts/Roboto-Regular.woff2") format("woff2"),
+    url("/src/styles/fonts/Roboto-Regular.woff") format("woff"),
+    url("/src/styles/fonts/Roboto-Regular.eot") format("eot");
+  font-display: fallback;
+}
